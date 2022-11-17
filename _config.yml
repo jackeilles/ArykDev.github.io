@@ -2,4 +2,5 @@ permalink: /404.html
 title: Jack's Dev Portfolio
 description: My name is Jack Eilles, this site contains all of my current and ongoing development projects, as well as tutorials.
 remote_theme: pages-themes/modernist@v0.2.0
-plugins: jekyll-remote-theme
+plugins: 
+- jekyll-remote-theme
