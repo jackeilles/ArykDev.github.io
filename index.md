@@ -1,6 +1,6 @@
-webber syte
+#Welcome to arykdev.github.io!
 
+<h3><u>Useful links</u></h3>
+<a href=blog.md>Blog</a>
 
-
-
-yes
+/* This needs to be fixed later!!!! */
