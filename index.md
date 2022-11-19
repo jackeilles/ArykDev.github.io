@@ -1,4 +1,4 @@
-#### = [Blogs](https://arykdev.wordpress.com) = [Portfolio](portfolio.md) = [Youtube](youtube.md) =
+#### = [Blogs](https://arykdev.wordpress.com) = [Portfolio](portfolio) = [Youtube](youtube.md) =
 
 # Welcome to arykdev.github.io!
 
