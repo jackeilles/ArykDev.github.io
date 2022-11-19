@@ -35,4 +35,5 @@ If any more is needed then I will most likely remember if I'm asked.
 ### Maintained Projects
 
 Currently, I am only maintaining a program which I have written known as 'KExUtil' which is used to assist people in the use of the `kexec` command in Linux.
+
 Extra writing on this project can be found in [this blog post](https://arykdev.wordpress.com/2022/11/19/kexutil/ "KExUtil Blog Post on arykdev.wordpress.com").
