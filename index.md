@@ -17,6 +17,7 @@ Currently the program is quite limited, only being able to reboot the currently 
 
 I have also been attempting to create a Linux shell based on Python 3, however I feel that it might need to be rewritten in another language, which would ruin the entire basis of the project, if anyone knows how I could have a Python program as a binary file in Linux, please E-Mail me.
 > [Link to the Repo](https://github.com/ArykDev/PySH "Repo Link to PySH")
+
 ### Past Projects
 
 At one point, I was beginning work on a new Social Media website, on the basis of it not being as addictive as other platforms, by making it solely text based, with no photo, video, audio, or texting support, however during development, I lost the files on my hard drive and was unable to recover them, and I also realised I didn't have the necessary technical skills to develop it, so the project has been halted for now.
