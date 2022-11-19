@@ -24,5 +24,5 @@ At one point, I was beginning work on a new Social Media website, on the basis o
 
 ### Future Projects
 
-Recently I have been drafting up an idea for a terminal program which will teach new users of the shell commands and utility usage through an easy to use and understand TUI program.
+Recently I have been drafting up an idea for a terminal program which will teach new users of the shell commands and utility usage through an easy to use and understand TUI program, there will be different variations for different shells, like BASH, ZSH, FISH, etc...
 Could probably keep track of a users progress through an XML file or something, not sure though, I'd probably have to read about it.
