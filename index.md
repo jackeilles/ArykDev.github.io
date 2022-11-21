@@ -1,4 +1,4 @@
-#### = [Blogs](https://arykdev.wordpress.com) = [Portfolio](portfolio) = [Youtube](youtube.md) =
+#### = [Blogs](https://arykdev.wordpress.com) = [Portfolio](portfolio) = [Youtube](youtube.md) = [SPCVerif Bot](SPCVerif) =
 
 # Welcome to arykdev.github.io!
 
