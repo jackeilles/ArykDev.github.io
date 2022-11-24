@@ -8,7 +8,7 @@ This section of the site is dedicated to a discord bot I wrote known as SPCVerif
 
 [Privacy Policy](privacy.md)
 
-[Terms of Use (For Contributors)](contributing.md)
+[Terms of Use (For Contributors)](contributing)
 
 ### About the Bot
 
